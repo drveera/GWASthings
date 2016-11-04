@@ -24,6 +24,6 @@
 ### Functional annotation based analysis 
 
  - RegulomeDB (http://genome.cshlp.org/content/22/9/1790.long) [In articles: [1](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)]
- - 
+ -  Haplotter (http://haplotter.uchicago.edu/) [In articles: [1](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)]
 
 ### 
