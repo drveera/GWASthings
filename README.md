@@ -3,10 +3,10 @@
 ##Pre GWAS
 
 ### Quality control
-### Population stratification 
+#### Population stratification 
 
 
 ## GWAS
-### Logistic regression with Plink 
+#### Logistic regression with Plink 
 
 ## Post-GWAS
