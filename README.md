@@ -1,4 +1,12 @@
 
 
+##Pre GWAS
 
-> Written with [StackEdit](https://stackedit.io/).
+### Quality control
+### Population stratification 
+
+
+## GWAS
+### Logistic regression with Plink 
+
+## Post-GWAS
